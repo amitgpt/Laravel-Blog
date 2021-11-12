@@ -1,4 +1,4 @@
-# Laravel From Scratch Blog Demo Project By Amit
+# Laravel From Scratch Blog Demo Project By Amit Gupta
  
 http://laravelfromscratch.com
 
